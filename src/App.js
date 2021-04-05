@@ -39,7 +39,7 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
       <h1>Welcome to React </h1>
           
-          <LambdaDemo />
+          /* <LambdaDemo /> */
         </header>
       </div>
     )
